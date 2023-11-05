@@ -2,6 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 
+// Sudo Password:
+// ChTTXs4nx3HM5bPIlyCT
+// Database Password:
+// GKEXY64iySaHs9WKnHmd
 /*
 |--------------------------------------------------------------------------
 | Web Routes
